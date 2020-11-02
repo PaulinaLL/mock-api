@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "firstName": "Henry",
+    "lastName": "Smith",
+    "phone": "+49 157 452 336",
+    "mail": "henry@gmail.com",
+    "viewed": "19.08.2020",
+    "appointment": "",
+    "interested": "true",
+    "offerAccepted": "true",
+    "bid": "250.000€"
+  },
+  {
+    "id": "2",
+    "firstName": "Anna",
+    "lastName": "Been",
+    "phone": "+49 1584 246 342",
+    "mail": "sunny@gmail.com",
+    "viewed": "10.07.2020",
+    "appointment": "",
+    "interested": "true",
+    "offerAccepted": "true",
+    "bid": "250.000€"
+  },
+  {
+    "id": "3",
+    "firstName": "Monica",
+    "lastName": "Ross",
+    "phone": "+49 1894 756 925",
+    "mail": "kiss@gmail.com",
+    "viewed": "05.06.2020",
+    "appointment": "",
+    "interested": "false",
+    "offerAccepted": "true",
+    "bid": "250.000€"
+  }
+]
