@@ -203,7 +203,7 @@
       "offerAccepted": "true",
       "bid": "300.000€"
     },
-         {
+    {
       "id": "18",
       "firstName": "Annika",
       "lastName": "Schulz",
@@ -215,7 +215,7 @@
       "offerAccepted": "",
       "bid": "250.000€"
     },
-             {
+    {
       "id": "19",
       "firstName": "Martina",
       "lastName": "Krajeva",
@@ -226,6 +226,6 @@
       "interested": "",
       "offerAccepted": "",
       "bid": ""
-    },
+    }
   ]
 }
