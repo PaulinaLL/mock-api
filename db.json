@@ -23,7 +23,8 @@
       "interested": "",
       "offerAccepted": "",
       "bid": ""
-    },{
+    },
+    {
       "id": "3",
       "firstName": "Marc",
       "lastName": "Muasi",
@@ -47,7 +48,7 @@
       "offerAccepted": "",
       "bid": ""
     },
-      {
+    {
       "id": "5",
       "firstName": "Veronica",
       "lastName": "Cappulini",
@@ -59,7 +60,7 @@
       "offerAccepted": "",
       "bid": ""
     },
-       {
+    {
       "id": "6",
       "firstName": "Anne",
       "lastName": "Scholl",
@@ -95,7 +96,7 @@
       "offerAccepted": "",
       "bid": "250.000€"
     },
-      {
+    {
       "id": "9",
       "firstName": "Kurt",
       "lastName": "Cobain",
@@ -107,7 +108,7 @@
       "offerAccepted": "",
       "bid": ""
     },
-     {
+    {
       "id": "10",
       "firstName": "Oskar",
       "lastName": "Lorein",
@@ -119,7 +120,7 @@
       "offerAccepted": "",
       "bid": "250.000€"
     },
-     {
+    {
       "id": "11",
       "firstName": "Katrine",
       "lastName": "Blum",
@@ -131,7 +132,7 @@
       "offerAccepted": "",
       "bid": ""
     },
-        {
+    {
       "id": "12",
       "firstName": "Ryan",
       "lastName": "Gossling",
@@ -167,7 +168,7 @@
       "offerAccepted": "",
       "bid": ""
     },
-        {
+    {
       "id": "15",
       "firstName": "Max",
       "lastName": "Mustermann",
